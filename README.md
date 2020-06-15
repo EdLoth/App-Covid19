@@ -1,11 +1,11 @@
-# DevFlix
-App de streaming de vídeo estilo Netflix.
+# App Covid-19
+>App de casos da Covid-19 no estados Brasileiros.
 
 
 
 :dart:  **Justificativa**
 
-App desenvolvido com proposito de integrar API do Youtube em um app Expo e Native.
+App desenvolvido com proposito de integrar API da Covid-19 em um app Expo e Native.
 
 
 :white_check_mark:   **Tecnologias**
@@ -26,9 +26,6 @@ App desenvolvido com proposito de integrar API do Youtube em um app Expo e Nativ
 | <img src="./Doc/Eduardo.jpg"  >| Eduardo Silveira Ramos | [EdLoth](https://github.com/EdLoth) | [Linkedin](https://www.linkedin.com/in/eduardo-ramos-31413b1a2/) | contatoeduardo.dev@gmail.com
 
 
-:computer:  **Arquitetura**
-
-![arquitetura](Doc/Dev.png)
 
 
 
