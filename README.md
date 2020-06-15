@@ -10,9 +10,7 @@
 
 Aplicativo mobile que consome a Api [Covid-19](https://covid19-brazil-api.now.sh) e lista todos os dados sobre o avanço da doença no mundo.
 
-<!-- <p align="center">
-  <img align="center" src="./.github/devflix.gif" alt="Web-Signin" border="0">
-</p> -->
+
 
 ## :nazar_amulet: Objetivo
 
@@ -26,12 +24,15 @@ Aplicativo mobile que consome a Api [Covid-19](https://covid19-brazil-api.now.sh
 
 
  
-24
-| Foto                                                                                                                             | Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
-25
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-26
-| <img src="./Doc/Eduardo.jpg"  >| Eduardo Silveira Ramos | [EdLoth](https://github.com/EdLoth) | [Linkedin](https://www.linkedin.com/in/eduardo-ramos-31413b1a2/) | contatoeduardo.dev@gmail.com
+
+ :medal_sports:  **Autores**
+
+
+ :medal_sports:  **Autores**
+ 
+| Foto                                                                                                                             | Nome                      | GitHub                                   | Likedin                                                 | E-mail
+|
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- || <img src="./Doc/Eduardo.jpg"  >| Eduardo Silveira Ramos | [EdLoth](https://github.com/EdLoth) | [Linkedin](https://www.linkedin.com/in/eduardo-ramos-31413b1a2/) | contatoeduardo.dev@gmail.com
 
 ## :computer: Tecnologias
 
