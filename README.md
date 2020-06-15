@@ -33,6 +33,7 @@ App desenvolvido com proposito de integrar API da Covid-19 em um app Expo e Nati
 
 * Instalar o Expo-cli
 
+
 `npm install -g expo-cli`
 
 * Inicializar uma aplicação
