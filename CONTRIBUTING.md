@@ -1,8 +1,7 @@
-1. Faça o fork (<https://github.com/jeffeloy/appcovid-19/fork>)
-2. Crie a branch da sua modificação (`git checkout -b feature/nomeDaFeature`)
-3. Commit suas mudanças (`git commit -am ':rocket: Add mais feature'`)
-4. Faça push para sua branch (`git push origin feature/nomeDaFeature`)
-5. Crie um Pull Request
+1. Crie a branch da sua modificação (`git checkout -b feature/nomeDaFeature`)
+2. Commit suas mudanças (`git commit -am ':rocket: Add mais feature'`)
+3. Faça push para sua branch (`git push origin feature/nomeDaFeature`)
+4. Crie um Pull Request
 
 ### Commit
 
